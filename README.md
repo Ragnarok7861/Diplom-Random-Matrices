@@ -4,7 +4,7 @@ The theory of random matrices is one of the key areas of mathematical physics an
 In this work, various classes of random matrices and their properties are considered. The main attention is paid to the study of the distribution of eigenvalues in Gaussian ensembles of random matrices with specific statistical properties, as well as in Hermitian asymmetrically distributed ensembles. In particular, the Gaussian unitary ensemble (GUE), the Gaussian orthogonal ensemble (GOE), the Gaussian symplectic ensemble (GSE), the ensemble of real asymmetric matrices and the Ginibre ensemble are considered. Each of these ensembles has unique characteristics and is applicable for modeling various physical and mathematical systems.
 
 ## Ссылки на документы
-[BKP Долгий Виктор Сергеевич](./BKP_Долгий_Виктор_Сергеевич.pdf)
+[BKP Долгий Виктор Сергеевич](./BKP%20Долгий%20Виктор%20Сергеевич.pdf)
 
-- [BKP Презентация Долгий](./BKP_Презентация_Долгий.pdf)
+
 
